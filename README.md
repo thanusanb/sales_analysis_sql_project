@@ -25,6 +25,17 @@ https://github.com/thanusanb/sales_analysis_sql_project/blob/main/sales_data.csv
 **7.** Which payment methods are most popular and generate the most sales by region?  
 **8.** Are there certain months where sales spike across product categories?  
 
+## 💡 Key Insights
+
+- Identified regions and sales representatives contributing the most to overall revenue.
+- Ranked product categories by total profit generated to highlight high-margin offerings.
+- Compared average sales amounts between new and returning customers to assess loyalty impact.
+- Analyzed how sales volume varies with discount levels to understand the effect of promotions.
+- Evaluated online and retail channel performance across product categories for strategic planning.
+- Examined popular payment methods and their contribution to total sales by region.
+- Investigated monthly sales trends to detect seasonal spikes across product categories.
+
+
 
 
 
